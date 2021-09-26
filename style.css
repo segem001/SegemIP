@@ -1,0 +1,80 @@
+
+*{
+   margin:0px;
+   margin:0px; 
+}h1 {
+
+    text-align: center;
+}
+.header{
+    background-color: lightblue;
+}
+.header ul{
+    text-align: right;
+
+}
+.header ul li{
+    list-style:none;
+    margin: 20px;
+    display: inline-block;
+    
+}
+.header ul li a{
+    text-decoration: none;
+    padding: 20px;
+}
+.header ul li a:hover{
+    background-color: black;
+    color:white;
+}
+.content{
+height: 450px;
+
+}
+.content #photo{
+    float:left
+}
+.content #photo #picture1{
+
+    width: 784px;
+    height: 450px;
+    margin:2px 0px 2px -5px;
+}
+.content #photo #picture2{
+width:800px;
+height: 450px;
+margin:2px 0px 2px 2px;
+
+}
+.footer{
+    background-color: grey;
+    height: 175px;
+}
+.footer #QuickLinks h2{
+color: lightblue;
+}
+.footer #QuickLinks{
+text-align: center;
+}
+.footer #QuickLinks ol li{
+margin: 12px;
+list-style-type: none;
+}
+.footer #QuickLinks ol li a{
+    text-decoration: none;
+}
+.footer #QuickLinks ol li a:hover{
+    background-color:green;
+}
+form{
+    text-align: center;
+    border:2px solid black;
+    padding:20px 0px;
+    background-color: lightblue;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+}
+.history{
+    background-color: lightblue;
+    margin-left: 2px;
+}
