@@ -6,7 +6,7 @@ Github link:https://github.com/segem001/SegemIP
 ## Technology used
 * Html for coding 
 * Css for styling
-# Support
+## Support
  Contact us through the following email :kipdom001@gmail.com
 
 ##
