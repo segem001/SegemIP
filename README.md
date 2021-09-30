@@ -11,5 +11,6 @@ Github link:https://github.com/segem001/SegemIP
 
 ## Usage
 This website is use to navigate through Neera gallery
+## License
 
  
